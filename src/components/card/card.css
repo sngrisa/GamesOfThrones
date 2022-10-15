@@ -1,0 +1,21 @@
+
+.cardCharacter{
+    list-style-type: none;
+    text-align: center;
+}
+
+.image-card{
+    width: auto;
+    border-radius: 10px;
+    background-color: aliceblue;
+    height: 130px;
+    cursor: pointer;
+}
+
+.card-text{
+    text-align: center;
+}
+
+p{
+    color: aliceblue;
+}
